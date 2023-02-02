@@ -2,7 +2,7 @@
  *  Description: A Java Program for converting 35 degrees Celsius to Fahrenheit
 */
 
-public class temperature  
+public class Temperature  
  {  
    public static void main (String args[])  
     { float Fahrenheit, Celsius;  
